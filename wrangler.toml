@@ -1,0 +1,4 @@
+name = "global-ai-trading"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "."
+# ใส่ API Key ใน Dashboard เท่านั้น ห้ามใส่ในไฟล์นี้
